@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on whatever. Once I am proficient enough, maybe I'll even help out the Blender community or something!
 - 📫 How to reach me: If you spot me anywhere, say Hi!
 
+- Latest work? https://www.nexusmods.com/skyrimspecialedition/mods/72761
+
+
 Note to Future self:
 
 Note to future self EZ, you're gonna do great man! One day, you'll write a kickass program and be so proud of it you'll have the biggest grin on your face. God will do you good mate. Lastly, how's that alarm program? Have you done it yet? Are we proud of it? Update me!
