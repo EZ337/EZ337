@@ -6,7 +6,7 @@
 
 - Latest work: https://www.nexusmods.com/skyrimspecialedition/mods/72761
 - Creation Kit modding: https://www.nexusmods.com/skyrimspecialedition/users/63931901?tab=user+files
-- Current Work: #CreationKit_Modding Male & Female Mannequin mod based off of Base Object Swapper
+- Current Work: #CreationKit_Modding Stable your Horses
 
 
 Note to Future self:
