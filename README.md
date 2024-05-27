@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EZ337
 - 👀 I’m interested in creating things. I love it! There's something about making something exist that I crave so much! Intrigue me with something to learn or do.
-- 🌱 I'm skilled in C#, C++, Python, and some Java
-- 💞️ I’m looking to collaborate on whatever. A goal is to be able to contribute to the Blender community
+- 🌱 I'm skilled in C#, C++, Python, Java, Html/CSS/JS
+- 💞️ I’m looking to collaborate on whatever. A goal is to be able to contribute to the Microsoft PowerToys community
 - 📫 How to reach me: If you spot me anywhere, say Hi!
 
 - Latest work: https://www.nexusmods.com/skyrimspecialedition/mods/72761
