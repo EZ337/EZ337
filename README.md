@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever. A goal is to be able to contribute to the Microsoft PowerToys community
 - 📫 How to reach me: If you spot me anywhere, say Hi!
 
-- Latest work: https://www.nexusmods.com/skyrimspecialedition/mods/72761
-- Creation Kit modding: https://www.nexusmods.com/skyrimspecialedition/users/63931901?tab=user+files
-- Current Work: Spartasoft Studio: Market Mayhem (Game Systems Programmer)
+[Curriculum Vitae](https://ez337.github.io/CV/cv.pdf)
 
 
 <!---
